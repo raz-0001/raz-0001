@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajibul Raja Khan😀</h1>
-<h3 align="center">An aspiring MERN-stack developer💻 from India.</h3>
+<h3 align="center">An MERN-stack developer💻 from India.</h3>
 <img align="right" width="400" src="https://33.media.tumblr.com/1e568035178b1f4f13559a7068172319/tumblr_ninugsLO3F1tgyrb1o1_500.gif" >
 
 - 🌱 I’m currently learning **full-stack web development.**
